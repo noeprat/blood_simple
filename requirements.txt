@@ -1,0 +1,17 @@
+numpy
+pandas
+
+llama-index
+pydantic
+openai
+
+pyPDF2
+pytesseract
+pdf2image
+PIL
+
+opencv-python
+
+streamlit
+streamlit_modal
+st-pages
